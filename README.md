@@ -1,6 +1,6 @@
 ### Welcome
 
-[DevLog](https://grandiose-gem-92b.notion.site/d765cd0063ba4adb8ea1dd9064d53320?v=9fd8c5621bfb4020a42c5656acdf5127&pvs=4)
+🗓️[My Notion](https://grandiose-gem-92b.notion.site/d765cd0063ba4adb8ea1dd9064d53320?v=9fd8c5621bfb4020a42c5656acdf5127&pvs=4)
 <!--
 **wooni97/wooni97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
