@@ -1,6 +1,6 @@
 ### Welcome
 
-[Blog](https://dev-wooni.tistory.com/)
+### [기술 블로그 바로가기](https://dev-wooni.tistory.com/)
 <!--
 **wooni97/wooni97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
