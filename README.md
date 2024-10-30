@@ -1,11 +1,8 @@
 ### 블로그
----
 <a href="(블로그, SNS 주소)" target="_blank">
 <img src="https://img.shields.io/badge/Blog-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
-[![최신글](https://blogwidget.com/api/t/posting/0?name=woonDev)]
-(https://blogwidget.com/api/t/link/0?name=woonDev)
 
 ---
 ### etc
